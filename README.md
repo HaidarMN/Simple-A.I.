@@ -4,7 +4,7 @@
 
 1. ```pip install speechRecognition``` For A.I. understand our voice
 2. ```pip install pyttsx3``` Basically text-to-speech
-3. ```pip install pywhatkir``` For advance control on browser (in this code, I only use YouTube
+3. ```pip install pywhatkir``` For advance control on browser (in this code, I only use YouTube)
 4. ```pip install wikipedia``` To get Wikipedia data
 5. ```pip install pyjokes``` To get a joke
 
